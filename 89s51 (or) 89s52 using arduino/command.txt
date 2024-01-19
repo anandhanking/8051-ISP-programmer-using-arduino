@@ -1,0 +1,6 @@
+"C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\avrdude.exe" -C C:/AVR8051.conf -c stk500v1 -P COM15 -p 89s52/1 -b 19200 -U flash:w:"D:\lcdblink.hex":a
+
+
+
+
+"C:\Program Files\WindowsApps\ArduinoLLC.ArduinoIDE_1.8.42.0_x86__mdqgnx93n4wtt\hardware\tools\avr\bin\avrdude.exe" -c stk500v1 -p at89s52 -C C:\AVR8051.conf -P com15 -b 19200 -U flash:w:D:\lcdblink.hex:i
